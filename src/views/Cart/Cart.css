@@ -1,0 +1,7 @@
+.form-item{
+    margin-bottom: 0;
+}
+.back-to-history:hover{
+    cursor: pointer;
+    color: blue;
+}
